@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Beautiful Japan\\Beautiful-Japan\\BeautifulJapan\\BeautifulJapan\\BeautifulJapan.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Japan\\Beautiful-Japan\\BeautifulJapan\\BeautifulJapan\\BeautifulJapan.csproj",
       "projectName": "BeautifulJapan",
-      "projectPath": "C:\\Users\\HP\\Desktop\\Beautiful Japan\\Beautiful-Japan\\BeautifulJapan\\BeautifulJapan\\BeautifulJapan.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\Japan\\Beautiful-Japan\\BeautifulJapan\\BeautifulJapan\\BeautifulJapan.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\Beautiful Japan\\Beautiful-Japan\\BeautifulJapan\\BeautifulJapan\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\Japan\\Beautiful-Japan\\BeautifulJapan\\BeautifulJapan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
